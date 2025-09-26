@@ -3,8 +3,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&color=C407F7FF&size=26&center=false&lines=Hey!+This+is+Tha+Zin+Hlaing;Software+Engineer...;Java+Developer...."/>
  
 
-I’m **Tha Zin Hlaing**, a passionate Software Engineer who loves coding and solving problems. I recently completed my **MSc in Data Analytics with Banking & Finance** at Sheffield Hallam University.  
-With over **8 years of experience**, I’ve worked on a variety of projects that allowed me to explore different technologies and domains, including **cybersecurity, data analytics, and software development**.  
+I’m **Tha Zin Hlaing**, a passionate Software Engineer who loves coding and solving problems. With over **8 years of experience**, I’ve worked on a variety of projects that allowed me to explore different technologies and domains, including **cybersecurity, data analytics, and software development**.  
 I enjoy turning ideas into real solutions and continuously learning new skills along the way.  
 
 
