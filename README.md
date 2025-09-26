@@ -76,6 +76,21 @@ I enjoy turning ideas into real solutions and continuously learning new skills a
 </p>
 
 
+<h3 align="left">🌐 Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/YOUR-LINK" target="_blank" rel="noreferrer" style="text-decoration:none;">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="40" width="40" />
+</a>
+<a href="https://instagram.com/YOUR-LINK" target="_blank" rel="noreferrer" style="text-decoration:none;">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="40" width="40" />
+</a>
+<a href="https://facebook.com/YOUR-LINK" target="_blank" rel="noreferrer" style="text-decoration:none;">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="40" width="40" />
+</a>
+</p>
+
+
+
 ## 📊 GitHub Stats  
 ![Tha Zin's GitHub stats](https://github-readme-stats.vercel.app/api?username=thazinhlaing&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thazinhlaing&layout=compact&theme=radical)  
