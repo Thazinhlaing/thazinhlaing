@@ -1,7 +1,11 @@
-# 👋 Hi there  
+# 👋 Hi there, Welcome to My GitHub Profile  
 
-I'm **Tha Zin Hlaing**, a passionate MSc Data Analytics with Banking & Finance student at Sheffield Hallam University.  
-With experience in IT, cybersecurity, and data analytics, I love solving problems using technology and building clean, scalable solutions.  
+I’m **Tha Zin Hlaing**, a passionate Software Engineer who loves coding and solving problems.  
+I recently completed my **MSc in Data Analytics with Banking & Finance** at Sheffield Hallam University.  
+With over **8 years of experience**, I’ve worked on a variety of projects that allowed me to explore different technologies and domains, 
+including **cybersecurity, data analytics, and software development**.  
+I enjoy turning ideas into real solutions and continuously learning new skills along the way.  
+
 
 ---
 
