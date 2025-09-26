@@ -42,7 +42,7 @@ I enjoy turning ideas into real solutions and continuously learning new skills a
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" />
 </a>
 </p>
----
+
 
 ## 📊 GitHub Stats  
 ![Tha Zin's GitHub stats](https://github-readme-stats.vercel.app/api?username=thazinhlaing&show_icons=true&theme=radical)  
